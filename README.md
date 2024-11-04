@@ -56,6 +56,7 @@ To get started with this project:
 2. Set up a BigQuery project and load the cleaned dataset.
 3. Open the Jupyter Notebook to review and modify the data cleaning process.
 4. Explore the Tableau dashboard for interactive visualizations.
+5. Download the original dataset from https://www.kaggle.com/datasets/usdot/flight-delays?resource=download
 
 ## Acknowledgments
 
